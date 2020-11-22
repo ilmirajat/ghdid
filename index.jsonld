@@ -1,0 +1,50 @@
+{
+  "@context": "https://w3id.org/did/v1",
+  "id": "did:github:ilmirajat",
+  "publicKey": [
+    {
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:ilmirajat#7uNE1L5vJ2Y7qPCeV5eQDXRnN-wx3WtMrzx3IwSrF-4",
+      "controller": "did:github:ilmirajat",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.8\r\nComment: https://openpgpjs.org\r\n\r\nxk8EX7qx/hMFK4EEAAoCAwRypw69VJw+MKOEw/GVO9kmU6BH7IZkAcM/fcgn\r\nk8amtCkWmAjpyAVGNzZe1tqKZgcaRWNJQ3NsDQ2NwyZEg2XqzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsKPBBATCAAgBQJfurH+BgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEAIQkQu4Zs2Fq/p6UWIQTQRSK+8e+TV3PWieW7hmzYWr+n\r\npRMAAQDzxAH4nRWsWjBjbUuKfek+sBglYyWofl06p9kxpgp56AEAwzByKTda\r\nQXpH/6g+3E520OHkRQRDVoHzXkiEkWXLFpPOUwRfurH+EgUrgQQACgIDBPLD\r\nuJA8RVQ3wcd8WxjxlIEAlnuuLn/QIy4KmDTGUIvwd5yYQ9OglWmS8S9eThhK\r\nlE/tHveH9Jbxu8XGtxAybT0DAQgHwngEGBMIAAkFAl+6sf4CGwwAIQkQu4Zs\r\n2Fq/p6UWIQTQRSK+8e+TV3PWieW7hmzYWr+npQulAQDNcz9HdaXnJKFD+eZy\r\nl+iUvwi90SCGjESRv6bxh4ag+wD/c1NDdZk2+pGfnSyYMgZs1zPdCgVRRh/Z\r\nhrRf/CU18G0=\r\n=a//p\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:ilmirajat#ra4Yp0q3bjF5QWaef7vLLMGFMCSS7Q-e-kfdOyLcH0I",
+      "controller": "did:github:ilmirajat",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.8\r\nComment: https://openpgpjs.org\r\n\r\nxk8EX7qx/hMFK4EEAAoCAwQinh76aVa7rngYeLcy51WXw/bXAlzTy5tN8tIQ\r\n3c+jAi4hQ877FPVwUYq6c1SW4i910sao4P6mLsgYcIfL5shOzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsKPBBATCAAgBQJfurH+BgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEAIQkQdDYD6FQLa3cWIQQ4+fuB2bbADKSbqFl0NgPoVAtr\r\nd7v1AQCGW4mxW0w+RDky8SHTcQQ+YhpXB5EcbV5YyAYGQoH7+gEA2xgILa9q\r\nozm+6OW9B5N73ix9ueuZvP9llHL7tsh6l+7OUwRfurH+EgUrgQQACgIDBKtI\r\noiSDgIfybfm4DCtrr8S1W7AWAP7yDuHXfSs7kgXjgcGP2rlsvDyHP+aVCn/t\r\nVBcOXTMfoiixuR6459U3dKcDAQgHwngEGBMIAAkFAl+6sf4CGwwAIQkQdDYD\r\n6FQLa3cWIQQ4+fuB2bbADKSbqFl0NgPoVAtrd6ZVAP0dhMHsATNbhs2Hr6eX\r\nmU/XBsBazPUWLzBE+U42jffo+wEAw64Y+mC3Aos9a/1t2s6jegAQ4UkxDaLk\r\nEfW4kYouqnk=\r\n=BIUM\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
+      "type": "Ed25519VerificationKey2018",
+      "id": "did:github:ilmirajat#Ap73ih1VUSQkC6XR4TpQ8vve0J3-9exJTZKdN0vrfzk",
+      "controller": "did:github:ilmirajat",
+      "publicKeyBase58": "3JbsgvWHK1LtaiacLhvayeaNkE4JM27i644wT722X9Mb"
+    }
+  ],
+  "authentication": [],
+  "service": [],
+  "capabilityDelegation": [
+    "did:github:ilmirajat#Ap73ih1VUSQkC6XR4TpQ8vve0J3-9exJTZKdN0vrfzk"
+  ],
+  "capabilityInvocation": [
+    "did:github:ilmirajat#Ap73ih1VUSQkC6XR4TpQ8vve0J3-9exJTZKdN0vrfzk"
+  ],
+  "assertionMethod": [
+    "did:github:ilmirajat#Ap73ih1VUSQkC6XR4TpQ8vve0J3-9exJTZKdN0vrfzk"
+  ],
+  "keyAgreement": [
+    {
+      "id": "did:github:ilmirajat#z6LSc9Lbj7J6ScGcFZEwofbJepRm9qPKr9WHphVE5RYjGFHn",
+      "type": "X25519KeyAgreementKey2019",
+      "controller": "did:github:ilmirajat",
+      "publicKeyBase58": "UASCoVEM9YsAAsBH25MLEDHJgrD9YL8wimYaxuCYsX2"
+    }
+  ],
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2020-11-22T18:46:22Z",
+    "verificationMethod": "did:github:ilmirajat#Ap73ih1VUSQkC6XR4TpQ8vve0J3-9exJTZKdN0vrfzk",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..VIGqREl28UVA88t7sk6ySevdVbCOv3gOQtj_HiEu5-R8dleFfq56jDnVZa2NOCzzAohyNOiKVNS7Jf0MmqODBg"
+  }
+}
